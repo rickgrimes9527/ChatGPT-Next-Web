@@ -337,25 +337,10 @@ const anthropicModels = [
 
 const baiduModels = [
   "ernie-4.0-turbo-8k",
-  "ernie-4.0-8k",
-  "ernie-4.0-8k-preview",
-  "ernie-4.0-8k-preview-0518",
-  "ernie-4.0-8k-latest",
-  "ernie-3.5-8k",
-  "ernie-3.5-8k-0205",
-  "ernie-speed-128k",
-  "ernie-speed-8k",
-  "ernie-lite-8k",
-  "ernie-tiny-8k",
 ];
 
 const bytedanceModels = [
   "Doubao-lite-4k",
-  "Doubao-lite-32k",
-  "Doubao-lite-128k",
-  "Doubao-pro-4k",
-  "Doubao-pro-32k",
-  "Doubao-pro-128k",
 ];
 
 const alibabaModes = [
@@ -370,35 +355,18 @@ const alibabaModes = [
 
 const tencentModels = [
   "hunyuan-pro",
-  "hunyuan-standard",
-  "hunyuan-lite",
-  "hunyuan-role",
-  "hunyuan-functioncall",
-  "hunyuan-code",
-  "hunyuan-vision",
 ];
 
 const moonshotModes = ["moonshot-v1-8k", "moonshot-v1-32k", "moonshot-v1-128k"];
 
 const iflytekModels = [
   "general",
-  "generalv3",
-  "pro-128k",
-  "generalv3.5",
-  "4.0Ultra",
 ];
 
 const xAIModes = ["grok-beta"];
 
 const chatglmModels = [
   "glm-4-plus",
-  "glm-4-0520",
-  "glm-4",
-  "glm-4-air",
-  "glm-4-airx",
-  "glm-4-long",
-  "glm-4-flashx",
-  "glm-4-flash",
 ];
 
 let seq = 1000; // 内置的模型序号生成器从1000开始
